@@ -3,12 +3,12 @@
 View and/or run CPL files in the Windows\System32 folder for the Microsoft Control Panel (control.exe)
 
 ## Current Release
-[CPL Explorer 32 Bit](https://github.com/Lateralus138/CPL-Explorer/releases/download/1.1.20.19/CPL.Explorer.x32.exe)<br />
-[CPL Explorer 64 Bit](https://github.com/Lateralus138/CPL-Explorer/releases/download/1.1.20.19/CPL.Explorer.x64.exe)<br />
+[CPL Explorer 32 Bit](https://github.com/Lateralus138/CPL-Explorer/releases/download/1.7.20.19/cpl.explorer.32bit.exe)<br />
+[CPL Explorer 64 Bit](https://github.com/Lateralus138/CPL-Explorer/releases/download/1.7.20.19/cpl.explorer.64bit.exe)<br />
 [Release Page - Source Files](https://github.com/Lateralus138/CPL-Explorer/releases/latest)
 
 ## Example Code - ControlPanelObj() - ShowCase
-# Get an object with info for each cpl file
+### Get an object with info for each cpl file
 ```
 ControlPanelObj()
 {   A_SysDir := A_WinDir "\System32\"
